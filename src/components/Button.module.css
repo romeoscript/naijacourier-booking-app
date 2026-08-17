@@ -1,0 +1,4 @@
+.secondary {
+  background: var(--color-surface-sunken);
+  color: var(--color-ink);
+}
